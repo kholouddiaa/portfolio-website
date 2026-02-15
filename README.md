@@ -5,18 +5,6 @@ A modern and responsive **Personal Portfolio Website** built using **HTML5** and
 This project is designed to showcase a developer profile in a clean professional way, including featured projects, an about section, and contact information.
 
 ---
-
-## 🚀 Live Demo
-
-🔗 (Add GitHub Pages Link Here)
-
-Example:
-```md
-https://yourusername.github.io/Portfolio/
-````
-
----
-
 ## 📌 Project Overview
 
 This portfolio website includes:
